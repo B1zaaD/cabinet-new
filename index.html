@@ -290,4 +290,5 @@ fetch(cfg.url+'/rest/v1/rendez_vous',{method:'POST',signal:ctl?ctl.signal:undefi
 f.addEventListener('submit',function(e){try{onSubmit(e)}catch(x){e.preventDefault();showErr('Erreur : '+(x&&x.message||x));console.error(x)}});
 })();
 </script>
+<script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
 </body></html>

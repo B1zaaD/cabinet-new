@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "One-page website for the speech therapy clinic of Mme Imane Bouzaria (ép. Lounici), centre médical Belle Vue, Sidi Abdellah. The site is in French.",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B1zaaD/cabinet-new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B1zaaD/cabinet-new/issues"
+  },
+  "homepage": "https://github.com/B1zaaD/cabinet-new#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
